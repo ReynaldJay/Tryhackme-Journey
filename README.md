@@ -13,21 +13,21 @@ Learned core principles of cybersecurity, common threats, and basic defense stra
 
 <details>
   <summary><strong>NETWORK FUNDAMENTALS</strong></summary>
-Learned core principles of cybersecurity, common threats, and basic defense strategies.
+Gained understanding of IP addressing, DNS, routing, and protocols like TCP/IP and HTTPS.
 </details>
 
 <details>
   <summary><strong>HOW THE WEB WORKS</strong></summary>
-Learned core principles of cybersecurity, common threats, and basic defense strategies.
+Explored HTTP/HTTPS, web technologies, and where security vulnerabilities can occur.
 </details>
 
 <details>
   <summary><strong>LINUX FUNDAMENTALS</strong></summary>
-Learned core principles of cybersecurity, common threats, and basic defense strategies.
+Developed skills in command-line navigation, file systems, permissions, and basic system administration.
 </details>
 
 <details>
   <summary><strong>WINDOWS FUNDAMENTALS</strong></summary>
-Learned core principles of cybersecurity, common threats, and basic defense strategies.
+Learned Windows architecture, user management, file permissions, and security settings.
 </details>
 
