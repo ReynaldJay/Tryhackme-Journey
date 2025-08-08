@@ -46,4 +46,4 @@ I will document each room with:
 - **Notes** – Key takeaways and commands.
 - **Proof of Completion** – Screenshots stored in `/screenshots`.
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/YourUsername.png)](https://tryhackme.com/p/YourUsername)
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/ReynaldJay.png)](https://tryhackme.com/p/ReynaldJay)
