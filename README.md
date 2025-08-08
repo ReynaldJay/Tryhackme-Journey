@@ -3,7 +3,7 @@
 
 Documenting my cybersecurity journey through TryHackMe. Includes detailed write-ups, notes, and proof of completion for each room, focusing on blue team skills and SOC operations. A portfolio to track progress, reinforce learning, and showcase commitment to the field.
 
-# TryHackMe – Pre Security Path
+# Pre Security Path
 
 The **Pre Security** learning path is designed to teach the prerequisite technical knowledge needed to begin a cybersecurity career.  
 Before you can attack or defend any technology, you must first understand how that technology works.
@@ -12,8 +12,8 @@ Before you can attack or defend any technology, you must first understand how th
 
 ## **Section 1 – Introduction to Cyber Security**
 1. Offensive Security Intro ✅
-2. Defensive Security Intro ✅
-3. Careers in Cyber ✅
+3. Defensive Security Intro ✅
+4. Careers in Cyber ✅
 
 ## **Section 2 – Network Fundamentals**
 1. What is Networking? ✅
