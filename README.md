@@ -12,7 +12,7 @@ This **Pre Security** path equipped me with the essential technical prerequisite
 ## **Introduction to Cyber Security**
 
 ## **Network Fundamentals**
-
+Learned core networking concepts including IP addressing, DNS, routing, switching, and key protocols like TCP/IP and HTTPS.
 ## **How The Web Works**
 
 ## **Linux Fundamentals**
