@@ -7,7 +7,7 @@ Documenting my cybersecurity journey through TryHackMe. Includes detailed write-
 Equipped me with the essential technical prerequisites to confidently begin a career in cybersecurity. It reinforced and expanded my foundational knowledge, building on top of my B.S. degree in Computer Science. 
 
 <details>
-  <summary><strong>INTRODUCTION TO CYBER SECURITY</strong> - [x] Completed  </summary>
+  <summary><strong>INTRODUCTION TO CYBER SECURITY</strong></summary>
 Learned core principles of cybersecurity, common threats, and basic defense strategies.
 </details>
 
