@@ -5,8 +5,7 @@ Documenting my cybersecurity journey through TryHackMe. Includes detailed write-
 
 # Pre Security Path
 
-This **Pre Security** path equipped me with the essential technical prerequisites to confidently begin a career in cybersecurity. It reinforced and expanded my foundational knowledge, building on top of my B.S. degree in Computer Science. Through structured learning, it helped me bridge theoretical concepts with practical skills, covering core areas such as networking, system fundamentals, and security principles. This program not only filled knowledge gaps but also provided a clear roadmap for advancing into more specialized areas of cybersecurity.
-
+This **Pre Security** path equipped me with the essential technical prerequisites to confidently begin a career in cybersecurity. It reinforced and expanded my foundational knowledge, building on top of my B.S. degree in Computer Science. 
 ---
 
 ## **Introduction to Cyber Security**
