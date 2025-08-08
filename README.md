@@ -17,20 +17,6 @@ Developed skills in command-line navigation, file systems, permissions, and basi
 ## **Windows Fundamentals**
 Learned Windows architecture, user management, file permissions, and security settings.
 
-<span style="color:#39FF14; font-weight:bold;">Introduction to Cyber Security</span>  
-Learned core principles of cybersecurity, common threats, and basic defense strategies.  
-
-<span style="color:#39FF14; font-weight:bold;">Network Fundamentals</span>  
-Gained understanding of IP addressing, DNS, routing, and protocols like TCP/IP and HTTPS.  
-
-<span style="color:#39FF14; font-weight:bold;">How The Web Works</span>  
-Explored HTTP/HTTPS, web technologies, and where security vulnerabilities can occur.  
-
-<span style="color:#39FF14; font-weight:bold;">Linux Fundamentals</span>  
-Developed skills in command-line navigation, file systems, permissions, and basic system administration.  
-
-<span style="color:#39FF14; font-weight:bold;">Windows Fundamentals</span>  
-Learned Windows architecture, user management, file permissions, and security settings.  
 
 
 
