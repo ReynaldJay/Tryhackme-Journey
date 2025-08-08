@@ -6,18 +6,28 @@ Documenting my cybersecurity journey through TryHackMe. Includes detailed write-
 # Pre Security Path
 Equipped me with the essential technical prerequisites to confidently begin a career in cybersecurity. It reinforced and expanded my foundational knowledge, building on top of my B.S. degree in Computer Science. 
 
-## **Introduction to Cyber Security**
 <details>
   <summary><strong>INTRODUCTION TO CYBER SECURITY</strong></summary>
-  Content here...
-</details>
 Learned core principles of cybersecurity, common threats, and basic defense strategies.
-## **Network Fundamentals**
-Gained understanding of IP addressing, DNS, routing, and protocols like TCP/IP and HTTPS.
-## **How The Web Works**
-Explored HTTP/HTTPS, web technologies, and where security vulnerabilities can occur.
-## **Linux Fundamentals**
-Developed skills in command-line navigation, file systems, permissions, and basic system administration.
-## **Windows Fundamentals**
-Learned Windows architecture, user management, file permissions, and security settings.
+</details>
+
+<details>
+  <summary><strong>NETWORK FUNDAMENTALS</strong></summary>
+Learned core principles of cybersecurity, common threats, and basic defense strategies.
+</details>
+
+<details>
+  <summary><strong>HOW THE WEB WORKS</strong></summary>
+Learned core principles of cybersecurity, common threats, and basic defense strategies.
+</details>
+
+<details>
+  <summary><strong>LINUX FUNDAMENTALS</strong></summary>
+Learned core principles of cybersecurity, common threats, and basic defense strategies.
+</details>
+
+<details>
+  <summary><strong>WINDOWS FUNDAMENTALS</strong></summary>
+Learned core principles of cybersecurity, common threats, and basic defense strategies.
+</details>
 
