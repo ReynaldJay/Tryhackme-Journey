@@ -1,4 +1,5 @@
 # Tryhackme-Journey
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/ReynaldJay.png)](https://tryhackme.com/p/ReynaldJay)
 
 Documenting my cybersecurity journey through TryHackMe. Includes detailed write-ups, notes, and proof of completion for each room, focusing on blue team skills and SOC operations. A portfolio to track progress, reinforce learning, and showcase commitment to the field.
 
@@ -37,14 +38,5 @@ Before you can attack or defend any technology, you must first understand how th
 2. Windows Fundamentals 2
 3. Windows Fundamentals 3
 
----
 
-### Progress Tracking
-I will document each room with:
-- **Objectives** – What the room aims to teach.
-- **Key Skills Learned** – Bullet points of technical skills gained.
-- **Tools Used** – Any tools or platforms applied in the lab.
-- **Notes** – Key takeaways and commands.
-- **Proof of Completion** – Screenshots stored in `/screenshots`.
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/ReynaldJay.png)](https://tryhackme.com/p/ReynaldJay)
