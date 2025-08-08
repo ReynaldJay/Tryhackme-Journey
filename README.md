@@ -7,6 +7,10 @@ Documenting my cybersecurity journey through TryHackMe. Includes detailed write-
 Equipped me with the essential technical prerequisites to confidently begin a career in cybersecurity. It reinforced and expanded my foundational knowledge, building on top of my B.S. degree in Computer Science. 
 
 ## **Introduction to Cyber Security**
+<details>
+  <summary><strong>INTRODUCTION TO CYBER SECURITY</strong></summary>
+  Content here...
+</details>
 Learned core principles of cybersecurity, common threats, and basic defense strategies.
 ## **Network Fundamentals**
 Gained understanding of IP addressing, DNS, routing, and protocols like TCP/IP and HTTPS.
@@ -16,11 +20,4 @@ Explored HTTP/HTTPS, web technologies, and where security vulnerabilities can oc
 Developed skills in command-line navigation, file systems, permissions, and basic system administration.
 ## **Windows Fundamentals**
 Learned Windows architecture, user management, file permissions, and security settings.
-
-<details>
-  <summary>_Click to expand_</summary>
-  
-  This text is hidden until you click the summary above.
-  
-</details>
 
