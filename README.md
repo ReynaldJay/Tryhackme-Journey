@@ -18,7 +18,7 @@ Developed skills in command-line navigation, file systems, permissions, and basi
 Learned Windows architecture, user management, file permissions, and security settings.
 
 <details>
-  <summary>Click to expand</summary>
+  <summary> ## Click to expand</summary>
   
   This text is hidden until you click the summary above.
   
