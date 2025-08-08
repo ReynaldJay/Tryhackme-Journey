@@ -10,15 +10,15 @@ This **Pre Security** path equipped me with the essential technical prerequisite
 ---
 
 ## **Introduction to Cyber Security**
-
+Learned core principles of cybersecurity, common threats, and basic defense strategies.
 ## **Network Fundamentals**
-Learned core networking concepts including IP addressing, DNS, routing, switching, and key protocols like TCP/IP and HTTPS.
+Gained understanding of IP addressing, DNS, routing, and protocols like TCP/IP and HTTPS.
 ## **How The Web Works**
-
+Explored HTTP/HTTPS, web technologies, and where security vulnerabilities can occur.
 ## **Linux Fundamentals**
-
+Developed skills in command-line navigation, file systems, permissions, and basic system administration.
 ## **Windows Fundamentals**
-
+Learned Windows architecture, user management, file permissions, and security settings.
 
 
 
